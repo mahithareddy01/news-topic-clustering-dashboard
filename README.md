@@ -110,9 +110,3 @@ Clusters are explained in non-technical language to highlight:
 - 📰 Editorial workflow optimization  
 
 Articles grouped together share similar vocabulary and thematic structure.
-
----
-
-## 🚀 How to Run
-
-1. Install dependencies:
